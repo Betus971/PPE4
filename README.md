@@ -20,4 +20,10 @@ cd monprojet
 composer require webapp
 
 
+php -S localhost:8000 -t public
+
+
+
+
+
 et vous avez votre symfony 
